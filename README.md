@@ -1,2 +1,2 @@
 # PlainDex
-A simple plaintext encrypted outliner for android
+A simple encrypted outliner for android
